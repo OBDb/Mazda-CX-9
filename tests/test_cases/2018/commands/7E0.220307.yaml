@@ -1,0 +1,26 @@
+command_id: 7E0.220307
+test_cases:
+- expected_values:
+    MAZDA_FP_LD: 26.37064
+  response: '7E8056203074382'
+- expected_values:
+    MAZDA_FP_LD: 26.39048
+  response: 7E805620307438F
+- expected_values:
+    MAZDA_FP_LD: 26.40726
+  response: 7E805620307439A
+- expected_values:
+    MAZDA_FP_LD: 26.41642
+  response: 7E80562030743A0
+- expected_values:
+    MAZDA_FP_LD: 26.421
+  response: 7E80562030743A3
+- expected_values:
+    MAZDA_FP_LD: 26.43473
+  response: 7E80562030743AC
+- expected_values:
+    MAZDA_FP_LD: 26.46525
+  response: 7E80562030743C0
+- expected_values:
+    MAZDA_FP_LD: 26.50645
+  response: 7E80562030743DB
