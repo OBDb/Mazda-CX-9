@@ -1,8 +1,8 @@
 command_id: 720.222A06
 test_cases:
 - expected_values:
-    MAZDA_TP_2: 2.40275
-  response: 72804622A06AF
+    MAZDA_TP_2: 2.23799
+  response: 72804622A06A3
 - expected_values:
     MAZDA_TP_2: 3.04806
   response: 72804622A06DE
