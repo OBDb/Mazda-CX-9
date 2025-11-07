@@ -1,8 +1,10 @@
 command_id: 720.222A0A
 test_cases:
 - expected_values:
-    MAZDA_TT_1: 2
-  response: 72804622A0A34
+    MAZDA_TT_1: 0
+    MAZDA_TT_RL: 0
+  response: 72804622A0A32
 - expected_values:
     MAZDA_TT_1: 54
+    MAZDA_TT_RL: 54
   response: 72804622A0A68
