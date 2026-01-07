@@ -1,0 +1,5 @@
+command_id: 720.728.22DD01
+test_cases:
+- expected_values:
+    MAZDA_ODO_TRIP: 6232.3
+  response: 7280662DD0100F373
