@@ -1,0 +1,6 @@
+command_id: 726.72E.224027
+test_cases:
+- expected_values:
+    MAZDA_12V_AGE: 0
+    MAZDA_BATT_AGE: 0
+  response: '72E056240270000'

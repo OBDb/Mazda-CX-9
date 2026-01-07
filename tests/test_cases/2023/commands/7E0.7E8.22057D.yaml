@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22057D
+test_cases:
+- expected_values:
+    MAZDA_AAT_ALT: 32
+  response: 7E80462057D90
+- expected_values:
+    MAZDA_AAT_ALT: 32.5
+  response: 7E80462057D91
+- expected_values:
+    MAZDA_AAT_ALT: 33.5
+  response: 7E80462057D93
+- expected_values:
+    MAZDA_AAT_ALT: 34
+  response: 7E80462057D94
+- expected_values:
+    MAZDA_AAT_ALT: 35
+  response: 7E80462057D96
+- expected_values:
+    MAZDA_AAT_ALT: 35.5
+  response: 7E80462057D97
+- expected_values:
+    MAZDA_AAT_ALT: 37.5
+  response: 7E80462057D9B
+- expected_values:
+    MAZDA_AAT_ALT: 38
+  response: 7E80462057D9C
+- expected_values:
+    MAZDA_AAT_ALT: 40
+  response: 7E80462057DA0
+- expected_values:
+    MAZDA_AAT_ALT: 42.5
+  response: 7E80462057DA5

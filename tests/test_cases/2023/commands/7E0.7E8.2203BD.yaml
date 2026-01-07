@@ -1,0 +1,42 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    MAZDA_CL_LC: 0.14355
+    MAZDA_[ECU] CL LAMBDA CORR: 0.14355
+  response: 7E8056203BD0498
+- expected_values:
+    MAZDA_CL_LC: 0.1897
+    MAZDA_[ECU] CL LAMBDA CORR: 0.1897
+  response: 7E8056203BD0612
+- expected_values:
+    MAZDA_CL_LC: 0.23083
+    MAZDA_[ECU] CL LAMBDA CORR: 0.23083
+  response: 7E8056203BD0763
+- expected_values:
+    MAZDA_CL_LC: 0.28101
+    MAZDA_[ECU] CL LAMBDA CORR: 0.28101
+  response: 7E8056203BD08FE
+- expected_values:
+    MAZDA_CL_LC: 0.32617
+    MAZDA_[ECU] CL LAMBDA CORR: 0.32617
+  response: 7E8056203BD0A70
+- expected_values:
+    MAZDA_CL_LC: 0.36389
+    MAZDA_[ECU] CL LAMBDA CORR: 0.36389
+  response: 7E8056203BD0BA5
+- expected_values:
+    MAZDA_CL_LC: 0.51038
+    MAZDA_[ECU] CL LAMBDA CORR: 0.51038
+  response: 7E8056203BD1055
+- expected_values:
+    MAZDA_CL_LC: 0.59656
+    MAZDA_[ECU] CL LAMBDA CORR: 0.59656
+  response: 7E8056203BD1317
+- expected_values:
+    MAZDA_CL_LC: 0.66272
+    MAZDA_[ECU] CL LAMBDA CORR: 0.66272
+  response: 7E8056203BD1535
+- expected_values:
+    MAZDA_CL_LC: 0.81592
+    MAZDA_[ECU] CL LAMBDA CORR: 0.81592
+  response: 7E8056203BD1A1C

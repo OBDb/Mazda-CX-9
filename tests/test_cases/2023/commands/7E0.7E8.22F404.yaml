@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 0
+  response: 7E80462F40400
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 19.21569
+  response: 7E80462F40431
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 19.60784
+  response: 7E80462F40432
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 20.39216
+  response: 7E80462F40434
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 25.09804
+  response: 7E80462F40440
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 27.84314
+  response: 7E80462F40447
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 28.62745
+  response: 7E80462F40449
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 29.01961
+  response: 7E80462F4044A
+- expected_values:
+    MAZDA_ENG_LOAD_PCT: 29.41176
+  response: 7E80462F4044B

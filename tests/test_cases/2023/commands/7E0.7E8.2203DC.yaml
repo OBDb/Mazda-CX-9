@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2203DC
+test_cases:
+- expected_values:
+    MAZDA_HPFP_DES: 509.08247
+  response: 7E8056203DC015F
+- expected_values:
+    MAZDA_HPFP_DES: 511.98322
+  response: 7E8056203DC0161
+- expected_values:
+    MAZDA_HPFP_DES: 514.88398
+  response: 7E8056203DC0163
+- expected_values:
+    MAZDA_HPFP_DES: 523.58624
+  response: 7E8056203DC0169
+- expected_values:
+    MAZDA_HPFP_DES: 665.72323
+  response: 7E8056203DC01CB
+- expected_values:
+    MAZDA_HPFP_DES: 688.92926
+  response: 7E8056203DC01DB
+- expected_values:
+    MAZDA_HPFP_DES: 693.2804
+  response: 7E8056203DC01DE
+- expected_values:
+    MAZDA_HPFP_DES: 706.33379
+  response: 7E8056203DC01E7
+- expected_values:
+    MAZDA_HPFP_DES: 707.78417
+  response: 7E8056203DC01E8
+- expected_values:
+    MAZDA_HPFP_DES: 870.22644
+  response: 7E8056203DC0258
