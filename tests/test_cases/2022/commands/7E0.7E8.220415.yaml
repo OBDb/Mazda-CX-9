@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    CX9_EOP: 6
+  response: '7E8056204150006'
+- expected_values:
+    CX9_EOP: 255
+  response: 7E80562041500FF
+- expected_values:
+    CX9_EOP: 256
+  response: '7E8056204150100'

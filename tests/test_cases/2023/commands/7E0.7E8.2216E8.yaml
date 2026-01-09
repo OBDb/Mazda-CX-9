@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    MAZDA_GEN_FC: 0
+    CX9_GEN_FC: 0
   response: 7E8056216E80000
 - expected_values:
-    MAZDA_GEN_FC: 46.02731
+    CX9_GEN_FC: 46.02731
   response: 7E8056216E83AEA
 - expected_values:
-    MAZDA_GEN_FC: 46.58579
+    CX9_GEN_FC: 46.58579
   response: 7E8056216E83BA1
 - expected_values:
-    MAZDA_GEN_FC: 47.30297
+    CX9_GEN_FC: 47.30297
   response: 7E8056216E83C8C
 - expected_values:
-    MAZDA_GEN_FC: 47.49828
+    CX9_GEN_FC: 47.49828
   response: 7E8056216E83CCC
 - expected_values:
-    MAZDA_GEN_FC: 47.61425
+    CX9_GEN_FC: 47.61425
   response: 7E8056216E83CF2
 - expected_values:
-    MAZDA_GEN_FC: 47.6997
+    CX9_GEN_FC: 47.6997
   response: 7E8056216E83D0E
 - expected_values:
-    MAZDA_GEN_FC: 47.90417
+    CX9_GEN_FC: 47.90417
   response: 7E8056216E83D51
 - expected_values:
-    MAZDA_GEN_FC: 48.61219
+    CX9_GEN_FC: 48.61219
   response: 7E8056216E83E39
 - expected_values:
-    MAZDA_GEN_FC: 49.7322
+    CX9_GEN_FC: 49.7322
   response: 7E8056216E83FA8
