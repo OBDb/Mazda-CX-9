@@ -1,32 +1,11 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    MAZDA_CAT_TEMP: 363.8
-  response: 7E80562F43C0FC6
+    MAZDA_CAT_TEMP: 18.7
+  response: 7E80562F43C024B
 - expected_values:
     MAZDA_CAT_TEMP: 367.6
   response: 7E80562F43C0FEC
 - expected_values:
-    MAZDA_CAT_TEMP: 371.8
-  response: 7E80562F43C1016
-- expected_values:
-    MAZDA_CAT_TEMP: 376.3
-  response: 7E80562F43C1043
-- expected_values:
-    MAZDA_CAT_TEMP: 380.4
-  response: 7E80562F43C106C
-- expected_values:
-    MAZDA_CAT_TEMP: 384
-  response: 7E80562F43C1090
-- expected_values:
     MAZDA_CAT_TEMP: 396.4
   response: 7E80562F43C110C
-- expected_values:
-    MAZDA_CAT_TEMP: 399.3
-  response: 7E80562F43C1129
-- expected_values:
-    MAZDA_CAT_TEMP: 402.9
-  response: 7E80562F43C114D
-- expected_values:
-    MAZDA_CAT_TEMP: 411
-  response: 7E80562F43C119E
