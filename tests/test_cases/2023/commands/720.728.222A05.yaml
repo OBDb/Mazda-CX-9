@@ -1,0 +1,5 @@
+command_id: 720.728.222A05
+test_cases:
+- expected_values:
+    CX9_TP_1_ND: 0
+  response: 72804622A0500

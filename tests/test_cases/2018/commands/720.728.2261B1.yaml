@@ -1,0 +1,5 @@
+command_id: 720.728.2261B1
+test_cases:
+- expected_values:
+    CX9_FLV: 52
+  response: 728046261B134
