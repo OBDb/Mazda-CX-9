@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221310|f=2016-
+test_cases:
+- expected_values:
+    CX9_EOT: 75.22
+  response: 7E8056213102D02
+- expected_values:
+    CX9_EOT: 75.65
+  response: 7E8056213102D2D
+- expected_values:
+    CX9_EOT: 75.87
+  response: 7E8056213102D43
+- expected_values:
+    CX9_EOT: 76.09
+  response: 7E8056213102D59
+- expected_values:
+    CX9_EOT: 76.31
+  response: 7E8056213102D6F
+- expected_values:
+    CX9_EOT: 76.53
+  response: 7E8056213102D85

@@ -1,29 +1,29 @@
 command_id: 7E0.7E8.220918
 test_cases:
 - expected_values:
-    MAZDA_TP2_V: 3.99
+    CX9_TP2_V: 3.99
   response: 7E8056209180F96
 - expected_values:
-    MAZDA_TP2_V: 3.991
+    CX9_TP2_V: 3.991
   response: 7E8056209180F97
 - expected_values:
-    MAZDA_TP2_V: 3.993
+    CX9_TP2_V: 3.993
   response: 7E8056209180F99
 - expected_values:
-    MAZDA_TP2_V: 4.413
+    CX9_TP2_V: 4.413
   response: 7E805620918113D
 - expected_values:
-    MAZDA_TP2_V: 4.416
+    CX9_TP2_V: 4.416
   response: '7E8056209181140'
 - expected_values:
-    MAZDA_TP2_V: 4.421
+    CX9_TP2_V: 4.421
   response: '7E8056209181145'
 - expected_values:
-    MAZDA_TP2_V: 4.43
+    CX9_TP2_V: 4.43
   response: 7E805620918114E
 - expected_values:
-    MAZDA_TP2_V: 4.432
+    CX9_TP2_V: 4.432
   response: '7E8056209181150'
 - expected_values:
-    MAZDA_TP2_V: 4.491
+    CX9_TP2_V: 4.491
   response: 7E805620918118B
