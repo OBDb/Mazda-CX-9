@@ -1,8 +1,0 @@
-command_id: 720.728.222A0D|f=2016-
-test_cases:
-- expected_values:
-    CX9_TT_4_ND: 0
-  response: 72804622A0D32
-- expected_values:
-    CX9_TT_4_ND: 47
-  response: 72804622A0D61

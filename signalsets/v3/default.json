@@ -1,33 +1,33 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TP_1_ND", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 1 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TP_2_ND", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 2 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TP_3_ND", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 3 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TP_4_ND", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Wheel 4 pressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0A"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0A"}, "freq": 15, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TT_1_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 1 temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0B"}, "freq": 15, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TT_2_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 2 temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0C"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0C"}, "freq": 15, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TT_3_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 3 temperature"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0D"}, "freq": 15, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A0D"}, "freq": 15, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2021], "from": 2024 },
   "signals": [
     {"id": "CX9_TT_4_ND", "path": "Tires", "fmt": { "len": 8, "max": 205, "min": -50, "add": -50, "unit": "celsius" }, "name": "Wheel 4 temperature"}
   ]},
@@ -39,7 +39,7 @@
   "signals": [
     {"id": "CX9_DTC_CNTD", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of DTCs"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2024 },
   "signals": [
     {"id": "CX9_MAP", "path": "Engine", "fmt": { "len": 16, "max": 4, "div": 1000, "unit": "volts" }, "name": "MAP voltage", "description": "A properly functioning sensor should read around 1 to 1.5 volts at idle."}
   ]},
@@ -71,7 +71,7 @@
   "signals": [
     {"id": "CX9_ETC_ACT_DEG", "path": "Engine", "fmt": { "len": 16, "max": 127.9, "div": 512, "unit": "degrees" }, "name": "Throttle position actual"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "filter": { "from": 2016 }, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1310"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2024 },
   "signals": [
     {"id": "CX9_EOT", "path": "Engine", "fmt": { "len": 16, "max": 615.35, "min": -40, "div": 100, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
