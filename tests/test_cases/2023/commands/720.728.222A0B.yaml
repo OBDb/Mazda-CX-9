@@ -1,5 +1,17 @@
 command_id: 720.728.222A0B
 test_cases:
 - expected_values:
-    CX9_TT_2_ND: -50
+    CX9_TT_2: -50
   response: 72804622A0B00
+- expected_values:
+    CX9_TT_2: 10
+  response: 72804622A0B3C
+- expected_values:
+    CX9_TT_2: 11
+  response: 72804622A0B3D
+- expected_values:
+    CX9_TT_2: 12
+  response: 72804622A0B3E
+- expected_values:
+    CX9_TT_2: 20
+  response: 72804622A0B46
