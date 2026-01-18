@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    CX9_EOP: 139
+  response: 7E805620415008B
+- expected_values:
+    CX9_EOP: 142
+  response: 7E805620415008E
+- expected_values:
+    CX9_EOP: 150
+  response: '7E8056204150096'
+- expected_values:
+    CX9_EOP: 151
+  response: '7E8056204150097'
+- expected_values:
+    CX9_EOP: 152
+  response: '7E8056204150098'
+- expected_values:
+    CX9_EOP: 153
+  response: '7E8056204150099'
