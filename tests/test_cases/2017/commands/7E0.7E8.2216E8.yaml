@@ -1,23 +1,14 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    CX9_GEN_FC: 28.95247
-  response: 7E8056216E8250F
-- expected_values:
-    CX9_GEN_FC: 30.22812
-  response: 7E8056216E826B1
+    CX9_GEN_FC: 28.62593
+  response: 7E8056216E824A4
 - expected_values:
     CX9_GEN_FC: 31.9707
   response: 7E8056216E828EC
 - expected_values:
-    CX9_GEN_FC: 33.78958
-  response: 7E8056216E82B40
-- expected_values:
-    CX9_GEN_FC: 35.40398
-  response: 7E8056216E82D51
-- expected_values:
-    CX9_GEN_FC: 45.02632
-  response: 7E8056216E839A2
+    CX9_GEN_FC: 46.88487
+  response: 7E8056216E83C03
 - expected_values:
     CX9_GEN_FC: 55.59472
   response: 7E8056216E84729
