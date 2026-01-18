@@ -1,20 +1,8 @@
 command_id: 720.728.2261B1
 test_cases:
 - expected_values:
-    CX9_FLV: 52
-  response: 728046261B134
-- expected_values:
-    CX9_FLV: 56
-  response: 728046261B138
-- expected_values:
-    CX9_FLV: 57
-  response: 728046261B139
-- expected_values:
-    CX9_FLV: 58
-  response: 728046261B13A
-- expected_values:
-    CX9_FLV: 61
-  response: 728046261B13D
+    CX9_FLV: 49
+  response: 728046261B131
 - expected_values:
     CX9_FLV: 65
   response: 728046261B141

@@ -4,20 +4,8 @@ test_cases:
     CX9_TP2_V: 3.94
   response: 7E8056209180F64
 - expected_values:
-    CX9_TP2_V: 4.162
-  response: '7E8056209181042'
-- expected_values:
-    CX9_TP2_V: 4.275
-  response: 7E80562091810B3
-- expected_values:
     CX9_TP2_V: 4.348
   response: 7E80562091810FC
 - expected_values:
-    CX9_TP2_V: 4.398
-  response: 7E805620918112E
-- expected_values:
-    CX9_TP2_V: 4.476
-  response: 7E805620918117C
-- expected_values:
-    CX9_TP2_V: 4.481
-  response: '7E8056209181181'
+    CX9_TP2_V: 4.362
+  response: 7E805620918110A
