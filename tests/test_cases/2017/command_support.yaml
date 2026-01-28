@@ -100,6 +100,7 @@ supported_commands_by_ecu:
   - 0149:APP_D
   - 7E1.7E9.0105
   - 7E1.7E9.010D
+  - 7E1.7E9.0111
   - 7E1.7E9.221E1C:CX9_TRANS_T
 unsupported_commands_by_ecu:
   "720":
