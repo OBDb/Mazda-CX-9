@@ -4,8 +4,8 @@ test_cases:
     CX9_TRANS_T: 50.675
   response: 7E905621E1C00A6
 - expected_values:
-    CX9_TRANS_T: 88.475
-  response: 7E905621E1C01F6
+    CX9_TRANS_T: 146.6375
+  response: 7E905621E1C03FB
 - expected_values:
     CX9_TRANS_T: 176.225
   response: 7E905621E1C0502
