@@ -4,6 +4,9 @@ test_cases:
     CX9_EOT: 24.09
   response: '7E8056213101909'
 - expected_values:
+    CX9_EOT: 26.61
+  response: 7E8056213101A05
+- expected_values:
     CX9_EOT: 54.7
   response: 7E80562131024FE
 - expected_values:
