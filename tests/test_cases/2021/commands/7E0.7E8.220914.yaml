@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     CX9_APP1_V: 0.795
   response: 7E805620914031B
+- expected_values:
+    CX9_APP1_V: 0.796
+  response: 7E805620914031C
+- expected_values:
+    CX9_APP1_V: 0.975
+  response: 7E80562091403CF
+- expected_values:
+    CX9_APP1_V: 1.228
+  response: 7E80562091404CC
+- expected_values:
+    CX9_APP1_V: 1.261
+  response: 7E80562091404ED
+- expected_values:
+    CX9_APP1_V: 1.338
+  response: 7E805620914053A
+- expected_values:
+    CX9_APP1_V: 1.445
+  response: 7E80562091405A5
