@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CX9_TT_3: 31
   response: 72804622A0C51
+- expected_values:
+    CX9_TT_3: 37
+  response: 72804622A0C57

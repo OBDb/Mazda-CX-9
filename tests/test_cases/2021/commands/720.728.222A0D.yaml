@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     CX9_TT_4: 29
   response: 72804622A0D4F
+- expected_values:
+    CX9_TT_4: 32
+  response: 72804622A0D52
+- expected_values:
+    CX9_TT_4: 36
+  response: 72804622A0D56
+- expected_values:
+    CX9_TT_4: 37
+  response: 72804622A0D57

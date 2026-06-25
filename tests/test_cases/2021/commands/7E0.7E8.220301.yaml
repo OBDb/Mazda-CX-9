@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CX9_MAP: 0.815
   response: 7E805620301032F
+- expected_values:
+    CX9_MAP: 1.255
+  response: 7E80562030104E7
