@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CX9_EOP: 143
   response: 7E805620415008F
+- expected_values:
+    CX9_EOP: 149
+  response: '7E8056204150095'
