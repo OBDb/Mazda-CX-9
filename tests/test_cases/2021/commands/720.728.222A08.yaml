@@ -16,5 +16,8 @@ test_cases:
     CX9_TP_4: 2.97941
   response: 72804622A08D9
 - expected_values:
+    CX9_TP_4: 3.04806
+  response: 72804622A08DE
+- expected_values:
     CX9_TP_4: 3.06179
   response: 72804622A08DF
