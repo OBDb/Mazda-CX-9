@@ -4,11 +4,11 @@ test_cases:
     CX9_GEN_FC: 33.0602
   response: 7E8056216E82A51
 - expected_values:
-    CX9_GEN_FC: 36.67048
-  response: 7E8056216E82EF0
+    CX9_GEN_FC: 41.37636
+  response: 7E8056216E834F6
 - expected_values:
     CX9_GEN_FC: 47.75769
   response: 7E8056216E83D21
 - expected_values:
-    CX9_GEN_FC: 52.10956
-  response: 7E8056216E842B3
+    CX9_GEN_FC: 55.15831
+  response: 7E8056216E8469A
