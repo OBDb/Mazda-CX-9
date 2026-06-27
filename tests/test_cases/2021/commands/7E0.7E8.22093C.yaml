@@ -10,5 +10,5 @@ test_cases:
     CX9_ETC_ACT_DEG: 4.99805
   response: 7E80562093C09FF
 - expected_values:
-    CX9_ETC_ACT_DEG: 19.89258
-  response: 7E80562093C27C9
+    CX9_ETC_ACT_DEG: 25.76172
+  response: 7E80562093C3386
