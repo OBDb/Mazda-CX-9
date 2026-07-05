@@ -10,6 +10,9 @@ test_cases:
     CX9_TT_1: 19
   response: 72804622A0A45
 - expected_values:
+    CX9_TT_1: 23
+  response: 72804622A0A49
+- expected_values:
     CX9_TT_1: 24
   response: 72804622A0A4A
 - expected_values:
