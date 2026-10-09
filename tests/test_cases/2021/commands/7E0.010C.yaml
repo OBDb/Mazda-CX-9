@@ -1,0 +1,32 @@
+command_id: 7E0.010C
+test_cases:
+- expected_values:
+    RPM: 657.5
+  response: 7E804410C0A46
+- expected_values:
+    RPM: 679.5
+  response: 7E804410C0A9E
+- expected_values:
+    RPM: 698.75
+  response: 7E804410C0AEB
+- expected_values:
+    RPM: 727.5
+  response: 7E804410C0B5E
+- expected_values:
+    RPM: 732
+  response: 7E804410C0B70
+- expected_values:
+    RPM: 737.75
+  response: 7E804410C0B87
+- expected_values:
+    RPM: 972.75
+  response: 7E804410C0F33
+- expected_values:
+    RPM: 1598
+  response: 7E804410C18F8
+- expected_values:
+    RPM: 1755.25
+  response: 7E804410C1B6D
+- expected_values:
+    RPM: 1886
+  response: 7E804410C1D78
