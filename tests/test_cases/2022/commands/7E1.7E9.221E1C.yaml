@@ -1,14 +1,14 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
-    CX9_TRANS_T: 36.275
+    CX9_TRANS_T: 2.375
   response: 7E905621E1C0026
 - expected_values:
-    CX9_TRANS_T: 89.4875
+    CX9_TRANS_T: 31.9375
   response: 7E905621E1C01FF
 - expected_values:
-    CX9_TRANS_T: 118.4
+    CX9_TRANS_T: 48
   response: 7E905621E1C0300
 - expected_values:
-    CX9_TRANS_T: 204.8
+    CX9_TRANS_T: 96
   response: 7E905621E1C0600
