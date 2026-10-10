@@ -1,4 +1,8 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2024 },
   "signals": [
     {"id": "CX9_TP_1", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "unit": "bars" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
