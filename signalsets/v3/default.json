@@ -41,7 +41,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0202"}, "freq": 3600, "dbgfilter": { "to": 2015, "years": [2018, 2019, 2020], "from": 2024 },
   "signals": [
-    {"id": "CX9_DTC_CNTD", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of DTCs"}
+    {"id": "CX9_DTC_CNTD", "path": "DTCs", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Number of DTCs", "suggestedMetric": "storedDTCCount"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "0301"}, "freq": 0.25, "dbgfilter": { "to": 2015, "years": [2019, 2020], "from": 2024 },
   "signals": [
