@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221310
 test_cases:
 - expected_values:
-    CX9_EOT: 18.01
-  response: 7E80562131016A9
+    CX9_EOT: 12.24
+  response: '7E8056213101468'
 - expected_values:
     CX9_EOT: 80.32
   response: 7E8056213102F00
